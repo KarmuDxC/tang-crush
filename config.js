@@ -13,4 +13,5 @@ const CONFIG = {
     mess: 'Hehe Hân biết mà 🥰. Yêu mẹ nhiều nhiều 😘😘',
     messDesc: 'Chúc mẹ sinh nhật vui vẻ nhó.',
     btnAccept: '<33',
+    messLink: 'http://fb.com',
 }
