@@ -11,6 +11,6 @@ const CONFIG = {
     btnReply: 'Đây là sự thật nè',
     reply: 'Vì Hân quá là xênh đẹp UWU<3333',
     mess: 'Hehe Hân biết mà 🥰. Yêu mẹ nhiều nhiều 😘😘',
-    messDesc: 'Chúc mẹ sinh nhật vui vẻ nhó. Mẹ nhớ mua chocolate cho Hân.',
-    btnAccept: 'Ok luôn<3',
+    messDesc: 'Chúc mẹ sinh nhật vui vẻ nhó.',
+    btnAccept: '<33',
 }
